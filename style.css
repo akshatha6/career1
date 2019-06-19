@@ -1,0 +1,41 @@
+
+h2 {
+    color: white;
+  }
+  a
+  {
+    color: white;
+
+  }
+  h3{
+      color:white;
+      text-align: center;
+  }
+  form {
+    
+    padding-top: 400px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 80px;
+  }
+ .thumbnail
+ {
+    padding-top: 400px;  
+    padding-right: 10px;
+    
+ }
+ .caption
+ {
+     color:white;
+     background-color:  indigo;
+
+ }
+ .orange
+ {
+     text-align:center;
+ }
+ .jumbotron
+ {
+  background-color:  indigo;
+
+ }
